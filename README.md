@@ -26,7 +26,7 @@ B.E. Computer Science and Engineering student at New Horizon College of Engineer
 ## Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [DataSentinel — DPDP Compliance](https://github.com/Chandrashekhar260/codeplay) · [Live Demo](https://srujanahackathon2026codeplays-main.vercel.app/) | PII discovery, RoPA data mapping, retention scheduling and consent ledger under India's DPDP Act 2023 (Srujana Tech Fest 2026) | React.js · Node.js · PostgreSQL |
+| [DataSentinel — DPDP Compliance](https://github.com/Chandrashekhar260/codeplay) · [Live Demo](https://srujanahackathon2026codeplays-main.vercel.app/) | PII discovery, RoPA data mapping, retention scheduling and consent ledger under India's DPDP Act 2023  | React.js · Node.js · PostgreSQL |
 
 
 
