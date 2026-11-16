@@ -8,7 +8,7 @@
 
 ## About Me
 B.E. Computer Science and Engineering student at New Horizon College of Engineering (4th year). I build REST APIs and database-driven web applications with Node.js, Express and MySQL/MongoDB, and seeking to work as Full Stack Developer.
-[Add one sentence about what you enjoy building.]
+
 
 ## Tech Stack
 **Languages** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -26,7 +26,7 @@ B.E. Computer Science and Engineering student at New Horizon College of Engineer
 ## Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [DPDPA for Small Business](https://github.com/Chandrashekhar260/codeplay) | Offline-first compliance toolkit for small businesses under India's DPDP Act (Srujana Tech Fest 2026) | [confirm] |
+| [DPDPA for Small Business](https://github.com/Chandrashekhar260/codeplay) | Offline-first compliance toolkit for small businesses under India's DPDP Act  |  |
 | [Project 2] | [one line] | [stack] |
 | [Project 3] | [one line] | [stack] |
 
