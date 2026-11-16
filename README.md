@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-B.E. Computer Science and Engineering student at New Horizon College of Engineering (4th year). I build REST APIs and database-driven web applications with Node.js, Express and MySQL/MongoDB, and I'm looking for fresher and internship roles in full stack development.
+B.E. Computer Science and Engineering student at New Horizon College of Engineering (4th year). I build REST APIs and database-driven web applications with Node.js, Express and MySQL/MongoDB, and seeking to work as Full Stack Developer.
 [Add one sentence about what you enjoy building.]
 
 ## Tech Stack
