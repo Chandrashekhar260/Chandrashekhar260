@@ -1,5 +1,5 @@
 <h1 align="center">Chandrashekhar</h1>
-<p align="center">Computer Science Engineering student · Junior Full Stack Developer · Bengaluru, India</p>
+<p align="center">Computer Science Engineering student ·  Full Stack Developer · Bengaluru, India</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandrashekhar-padashetty-5904472b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -27,8 +27,8 @@ B.E. Computer Science and Engineering student at New Horizon College of Engineer
 | Project | What it does | Stack |
 |---|---|---|
 | [DataSentinel — DPDP Compliance](https://github.com/Chandrashekhar260/codeplay) · [Live Demo](https://srujanahackathon2026codeplays-main.vercel.app/) | PII discovery, RoPA data mapping, retention scheduling and consent ledger under India's DPDP Act 2023 (Srujana Tech Fest 2026) | React.js · Node.js · PostgreSQL |
-| [Project 2] | [one line] | [stack] |
-| [Project 3] | [one line] | [stack] |
+
+
 
 ## GitHub Stats
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chandrashekhar260&show_icons=true&hide_border=true">
