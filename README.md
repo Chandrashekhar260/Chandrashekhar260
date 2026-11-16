@@ -26,7 +26,7 @@ B.E. Computer Science and Engineering student at New Horizon College of Engineer
 ## Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [DPDPA for Small Business](https://github.com/Chandrashekhar260/codeplay) | Offline-first compliance toolkit for small businesses under India's DPDP Act  |  |
+|  [DPDPA for Small Business](https://github.com/Chandrashekhar260/codeplay) | Offline-first compliance toolkit for small businesses under India's DPDP Act  | React.js · Node.js · PostgreSQL |
 | [Project 2] | [one line] | [stack] |
 | [Project 3] | [one line] | [stack] |
 
