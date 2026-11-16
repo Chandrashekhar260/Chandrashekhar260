@@ -30,8 +30,7 @@ B.E. Computer Science and Engineering student at New Horizon College of Engineer
 
 
 
-## GitHub Stats
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Chandrashekhar260&show_icons=true&hide_border=true">
+
 
 ## Contact
 📫 padshettychandrashekhar25@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/chandrashekhar-padashetty-5904472b3/)
